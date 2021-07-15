@@ -1,10 +1,13 @@
 # IP_Locator
 This locates IPs 
 
-Installation :
-apt update 
-apt install git curl -y
-git clone git://github.com/htr-tech/track-ip.git
-cd track-ip
+
+single command
+apt update ; apt install git curl -y ; git clone git://github.com/sergioislit/IP_Locator.git ; cd track-ip ; bash trackip
+
+
+
+
+
 
 > Run : bash trackip 
